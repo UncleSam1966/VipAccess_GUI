@@ -1,5 +1,5 @@
 # VipAccess_GUI
-Offers a GUI front end to the  python-vipaccess developed by [dlenski](https://github.com/dlenski).
+Offers a GUI front end to the [python-vipaccess](https://github.com/dlenski/python-vipaccess) developed by [dlenski](https://github.com/dlenski).
 
 ## Pre requisites:
 
