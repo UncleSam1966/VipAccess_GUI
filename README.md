@@ -1,5 +1,5 @@
 # VipAccess_GUI
-Offers a GUI front end to the  python-vipaccess developed by dlenski.
+Offers a GUI front end to the  python-vipaccess developed by [dlenski](https://github.com/dlenski).
 
 ## Pre requisites:
 
@@ -12,7 +12,8 @@ Offers a GUI front end to the  python-vipaccess developed by dlenski.
 ## Create the provision output:
 
 	vipaccess provision -o ~/.vipaccess
-(This file is created with read/write permissions only for the current user.)
+
+This file is created with read/write permissions only for the current user.
 
 ## Create/download the files for the VipAccess GUI:
 
@@ -32,9 +33,9 @@ Offers a GUI front end to the  python-vipaccess developed by dlenski.
 
 	sudo desktop-file-install ~/.local/share/applications/VipAccess.desktop
 
-If all goes well the new application wil show up in the start menu under Other
+If all goes well the new application will show up in the start menu under Other
 
 ## Usage:
-- Run the VipAccess application from the start menu or desktop or favorites.
+- Run the VipAccess application either from the applications menu or desktop or favorites.
 - Register the Token ID that is displayed with your organisation's remote access setup portal, along with the displayed 6-digit access code.
-- Thereupon when you are ready to enter the access code upon remote login to the organisation you can use the paste function as the 6-digit code would aready have been copied into the clipboard.
+- Thereupon when you are ready to enter the access code upon remote login to the organisation, you can use the paste function as the 6-digit code would aready have been copied into the clipboard.
