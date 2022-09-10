@@ -33,7 +33,7 @@ This file is created with read/write permissions only for the current user.
 
 	sudo desktop-file-install ~/.local/share/applications/VipAccess.desktop
 
-If all goes well the new application will show up in the start menu under Other
+This checks the syntax of the launcher and (if it has no errors) installs it into `/usr/share/applications`. If all goes well the new application will show up in the start menu under Other
 
 ## Usage:
 - Run the VipAccess application either from the applications menu or desktop or favorites.
