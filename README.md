@@ -1,17 +1,19 @@
 # VipAccess_GUI
 Offers a GUI front end to the  python-vipaccess developed by dlenski.
 
-## Pre requisites: python-vipaccess, xclip, (zenity, awk)
+## Pre requisites:
 
-Installation:
+	python-vipaccess, xclip, (zenity, awk)
+
+## Installation:
 
 	pip3 install python-vipaccess xclip
 
-Create the provision output:
+## Create the provision output:
 
 	vipaccess provision -o ~/.vipaccess
 
-Create/download the files for the VipAccess GUI:
+## Create/download the files for the VipAccess GUI:
 
 - the executable script:
 
@@ -25,7 +27,7 @@ Create/download the files for the VipAccess GUI:
 
 		~/.local/share/icons/VipAccess.png
 	
-Finally install the application:
+## Finally install the application:
 
 	sudo desktop-file-install ~/.local/share/applications/VipAccess.desktop
 
