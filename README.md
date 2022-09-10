@@ -9,11 +9,11 @@ Create the provision output: vipaccess provision -o ~/.vipaccess
 
 Create/download the files for the VipAccess GUI:
 
-	the executable script: ~/.local/bin/VipAccess
+- the executable script: ~/.local/bin/VipAccess
 	
-	the .desktop file: ~/.local/share/applications/VipAccess.desktop
+- the .desktop file: ~/.local/share/applications/VipAccess.desktop
 	
-	the icon file: ~/.local/share/icons/VipAccess.png
+ -the icon file: ~/.local/share/icons/VipAccess.png
 	
 Finally install the application: sudo desktop-file-install ~/.local/share/applications/VipAccess.desktop
 
