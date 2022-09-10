@@ -12,6 +12,7 @@ Offers a GUI front end to the  python-vipaccess developed by dlenski.
 ## Create the provision output:
 
 	vipaccess provision -o ~/.vipaccess
+(This file is created with read/write permissions only for the current user.)
 
 ## Create/download the files for the VipAccess GUI:
 
