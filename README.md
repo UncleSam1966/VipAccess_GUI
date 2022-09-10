@@ -15,15 +15,15 @@ Create/download the files for the VipAccess GUI:
 
 - the executable script:
 
-	~/.local/bin/VipAccess
+		~/.local/bin/VipAccess
 	
 - the .desktop file:
 
-	~/.local/share/applications/VipAccess.desktop
+		~/.local/share/applications/VipAccess.desktop
 	
 - the icon file:
 
-	~/.local/share/icons/VipAccess.png
+		~/.local/share/icons/VipAccess.png
 	
 Finally install the application:
 
