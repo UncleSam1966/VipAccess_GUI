@@ -13,7 +13,7 @@ Create/download the files for the VipAccess GUI:
 	
 - the .desktop file: ~/.local/share/applications/VipAccess.desktop
 	
- -the icon file: ~/.local/share/icons/VipAccess.png
+- the icon file: ~/.local/share/icons/VipAccess.png
 	
 Finally install the application: sudo desktop-file-install ~/.local/share/applications/VipAccess.desktop
 
