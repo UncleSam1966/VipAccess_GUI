@@ -28,7 +28,9 @@ This file is created with read/write permissions only for the current user.
 - the icon file:
 
 		~/.local/share/icons/VipAccess.png
-	
+
+Remember to replace the ~ with /home/<yourusername> in the above executable script and the .desktop files.
+
 ## Finally install the application:
 
 	sudo desktop-file-install ~/.local/share/applications/VipAccess.desktop
