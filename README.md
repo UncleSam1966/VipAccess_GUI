@@ -3,7 +3,8 @@ Offers a GUI front end to the [python-vipaccess](https://github.com/dlenski/pyth
 
 ## Pre requisites:
 
-- python-vipaccess and xclip. (zenity and awk are assumed to be already installed, if not just add them to the `sudo apt install` line below)
+- python-vipaccess and xclip
+- zenity and awk are assumed to be already installed, if not just add them to the `sudo apt install` line below
 
 ## Installation:
 
