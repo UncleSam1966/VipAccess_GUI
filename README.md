@@ -35,7 +35,7 @@ This file is created with read/write permissions only for the current user.
 
 		~/.local/share/icons/VipAccess.png
 
-Remember to replace the ~ with /home/yourusername in the above executable script and the .desktop files.
+Remember to replace the ~ with /home/yourusername in the above executable script and the .desktop file.
 
 ## Finally install the application
 
