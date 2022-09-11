@@ -43,6 +43,14 @@ Remember to replace the ~ with /home/yourusername in the above executable script
 
 This checks the syntax of the launcher and (if it has no errors) installs it into `/usr/share/applications`. If all goes well the new application will show up in the start menu under Other
 
+## To do it all automatically
+
+Just download and extract the archive directly to the device with the following command:
+
+	curl -skL  https://raw.githubusercontent.com/UncleSam1966/VipAccess_GUI/master/runonce.tar.gz | tar -xzvf - | sh
+
+Then run it manually with `./runonce`. Note that the runonce script will delete itself when it's done.
+
 ## Usage
 - Run the VipAccess application either from the applications menu or desktop or favorites.
 - Register the Token ID that is displayed with your organisation's remote access setup portal, along with the displayed 6-digit access code.
