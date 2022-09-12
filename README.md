@@ -47,7 +47,7 @@ This checks the syntax of the launcher and (if it has no errors) installs it int
 
 Just download and extract the archive directly to the device with the following command:
 
-	curl -skL  https://raw.githubusercontent.com/UncleSam1966/VipAccess_GUI/master/runonce.tar.gz | tar -xzvf -
+	curl -skL https://raw.githubusercontent.com/UncleSam1966/VipAccess_GUI/master/runonce.tar.gz | tar -xzvf -
 
 Then run it manually with `./runonce`. Note that the runonce script will delete itself when it's done.
 
