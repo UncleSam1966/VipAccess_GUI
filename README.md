@@ -19,7 +19,9 @@ Installation of Symantec's VIP Access for Windows on a linux machine (Zorin OS 1
 
 	vipaccess provision -o ~/.vipaccess
 
-This file is created with read/write permissions only for the current user.
+This file is created with read/write permissions only for the current user. Make it readonly for all to preserve the Token ID in case of accidental overwrites.
+
+	chmod -w ~/.vipaccess
 
 ## Create/download the files for the VipAccess GUI
 
